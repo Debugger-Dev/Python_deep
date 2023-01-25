@@ -1,0 +1,9 @@
+Module
+A instance of Module type.
+Built in library (math
+Standard library (fraction
+
+namespace global conatins the memory adresses of these.
+global().['math']
+id(math) =The memory adress of math module
+
